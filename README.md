@@ -17,5 +17,10 @@
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rijesh033/leetcode_solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Rijesh033/leetcode_solution/tree/master/2798-number-of-employees-who-met-the-target) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rijesh033/leetcode_solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
